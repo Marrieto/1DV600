@@ -6,3 +6,5 @@ The repo has two main branches node and java, with the vagrant and server code. 
 ## Node getting started
 
 If you have any issues please contact us on slack.
+
+Updating
